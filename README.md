@@ -1,10 +1,10 @@
 ### Hi there, I'm Fangyi Yu [website] 👋
 
-## I'm a Master student in Computer Science, and a Machine Learning Researcher.
+## I'm a Master's student in Computer Science and a Machine Learning Researcher.
 
 - 🔭 I just launched my first blogs on [Medium][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for internship opportunities for 2022 and 2023 summer.
+- 🌱 I'm currently learning everything 🤣
+- 👯 I'm looking for internship opportunities for the 2022 and 2023 summers.
 - 🥅 2021 Goals: Get A+ in coursework, confirm research topic and complete literature review.
 - ⚡ Fun fact: I love to hike, play badminton and Pingpong.
 
