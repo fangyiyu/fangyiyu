@@ -44,6 +44,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Lotto Generator Web Application using Django and Visual Studio Code on macOS](https://medium.com/@fangyiyu/how-to-build-a-lotto-generator-web-application-using-django-and-visual-studio-code-on-macos-91307d48165c?source=rss-9114502db0dc------2)
+- [How to download datasets from Kaggle to Google Colab](https://medium.com/@fangyiyu/how-to-download-datasets-from-kaggle-to-google-colab-7bb3c5a44c51?source=rss-9114502db0dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 
