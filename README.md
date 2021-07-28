@@ -4,7 +4,7 @@
 
 - 🔭 I just launched my first blogs on [Medium][course]!
 - 🌱 I'm currently learning everything 🤣
-- 👯 I'm looking for internship opportunities for the 2022 and 2023 summers.
+- 👯 I'm looking for machine learning internship opportunities for the 2022 and 2023 summers.
 - 🥅 2021 Goals: Get A+ in coursework, confirm research topic and complete literature review.
 - ⚡ Fun fact: I love to hike, play badminton and Pingpong.
 
