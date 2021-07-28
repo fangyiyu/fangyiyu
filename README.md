@@ -1,4 +1,4 @@
-### Hi there, I'm Fangyi Yu [website] 👋
+### Hi there, I'm [Fangyi Yu][website] 👋
 
 ## I'm a Master's student in Computer Science and a Machine Learning Researcher.
 
