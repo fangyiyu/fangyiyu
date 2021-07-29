@@ -44,6 +44,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A thorough guide to Time Series Analysis](https://medium.com/@fangyiyu/a-thorough-guide-to-time-series-analysis-5439c63bc9c5?source=rss-9114502db0dc------2)
 - [How to build a Lotto Generator Web Application using Django and Visual Studio Code on macOS](https://medium.com/geekculture/how-to-build-a-lotto-generator-web-application-using-django-and-visual-studio-code-on-macos-91307d48165c?source=rss-9114502db0dc------2)
 - [How to download datasets from Kaggle to Google Colab](https://medium.com/geekculture/how-to-download-datasets-from-kaggle-to-google-colab-7bb3c5a44c51?source=rss-9114502db0dc------2)
 <!-- BLOG-POST-LIST:END -->
