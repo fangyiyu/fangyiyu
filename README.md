@@ -5,8 +5,8 @@
 - 🔭 I just launched my first blogs on [Medium][course]!
 - 🌱 I'm currently learning everything 🤣
 - 👯 I'm looking for machine learning internship opportunities for the 2022 and 2023 summers.
-- 🥅 2021 Goals: Get A+ in coursework, nail down research topic and complete literature review.
-- ⚡ Fun fact: I'm a traveller. Love to hike, play badminton and table tennis.
+- 🥅 2021 Goals: Read five books, nail down research topic and finish research manuscript.
+- ⚡ Fun fact: I'm a traveller. Love to hike, cook, play badminton and table tennis.
 
 
 ### Connect with me:
