@@ -3,7 +3,7 @@
 ## I'm a Master's student in Computer Science and a Machine Learning Researcher.
 
 - 🔭 I just launched my first blogs on [Medium][course]!
-- 🌱 I'm currently learning everything 🤣
+- 🌱 I'm currently learning Google Cloud Platform.
 - 👯 I'm looking for machine learning internship opportunities for the 2022 summer.
 - 🥅 2021 Goals: Read five books, nail down research topic and finish research manuscript.
 - ⚡ Fun fact: I'm a traveller. Love to hike, cook, play badminton and table tennis.
