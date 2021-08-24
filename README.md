@@ -53,8 +53,13 @@
 
 ---
 
-<img align="left" alt="Fangyi Yu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fangyiyu&show_icons=true&hide_border-true" />
-                                                                                                                                                    
+[![Fangyu Yu's Github Status](https://github-readme-stats.vercel.app/api?username=fangyiyu&show_icons=true)](https://github.com/fangyiyu/github-readme-stats)
+
+---
+
+<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangyiyu&hide=Jupyter Notebook,html" />
+
+
 [website]: https://fangyiyu.herokuapp.com/
 [course]: https://medium.com/@fangyiyu
 [twitter]: https://twitter.com/mlfangyiyu
