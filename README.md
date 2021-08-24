@@ -51,7 +51,10 @@
 - [How to build a Lotto Generator Web Application using Django and Visual Studio Code on macOS](https://towardsdatascience.com/how-to-build-a-lotto-generator-web-application-using-django-and-visual-studio-code-on-macos-91307d48165c?source=rss-9114502db0dc------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+<img align="left" alt="Fangyi Yu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fangyiyu&show_icons=true&hide_border-true" />
+                                                                                                                                                    
 [website]: https://fangyiyu.herokuapp.com/
 [course]: https://medium.com/@fangyiyu
 [twitter]: https://twitter.com/mlfangyiyu
