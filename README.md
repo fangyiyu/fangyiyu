@@ -15,7 +15,7 @@
 <!-- [<img align="left" alt="fangyiyu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="fangyiyu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fangyiyu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="fangyiyu | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -56,4 +56,4 @@
 [course]: https://medium.com/@fangyiyu
 [twitter]: https://twitter.com/mlfangyiyu
 [linkedin]: https://www.linkedin.com/in/fangyiyu/
-
+[medium]: https://medium.com/@fangyiyu
