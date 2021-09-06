@@ -51,6 +51,28 @@
 - [A thorough guide to Time Series Analysis](https://towardsdatascience.com/a-thorough-guide-to-time-series-analysis-5439c63bc9c5?source=rss-9114502db0dc------2)
 <!-- BLOG-POST-LIST:END -->
 
+
+### Education
+
+- 🎓 MSc. Natural Langugage Processing & CyberSecurity 📈 @ [Ontario Tech University :canada:](https://ontariotechu.ca/programs/graduate/science/masters-computer-science/)
+- :woman_student: Post-graduate Certificate Artificial Intelligence :desktop_computer: @ [Durham College :canada:](https://durhamcollege.ca/programs/artificial-intelligence-analysis-design-and-implementation-graduate-certificate)
+- :books: BSc. Applied Mathematics :infinity: @ [Donghua University :cn:](https://scdhu.dhu.edu.cn/)
+
+### Select projects
+- [Time Series Analysis](https://towardsdatascience.com/a-thorough-guide-to-time-series-analysis-5439c63bc9c5?sk=ee62bc0f09afe09d258ece1dfd4fe03e)
+  - `time series` `data science` `deep learning ` `neural networks`
+- [Fake News Detection](https://towardsdatascience.com/how-to-build-a-fake-news-detection-web-app-using-flask-c0cfd1d9c2d4?sk=2a752b0d87c759672664232b33543667)
+  - `natural language processing ` `classification` `deployment`
+- [Forecasting with BigQuery ML](https://towardsdatascience.com/how-to-forecast-trip-duration-using-bigquery-ml-ef2bf4a52a47?sk=ef219ff4aa1978b480a8e0153600ce71)
+  - `regression` `google cloud platform` `SQL`
+- [Exploratary data analysis for digital marketing](https://towardsdatascience.com/exploratory-data-analysis-for-digital-marketing-with-seaborn-11d5f707fcce?sk=13a6dd11192756e2f665aff5a871aebf)
+  - `statistics` `seaborn` `data visualization`
+
+
+### Trivia
+- 🌐 I have visited over 10 countries: [some pictures](./pics/README.md)
+- 💬 I speak Chinese:cn: and English:us:. I'm also learning Spanish🇪🇸 and French🇫🇷 
+
 ---
 
 [![Fangyu Yu's Github Status](https://github-readme-stats.vercel.app/api?username=fangyiyu&show_icons=true&hide_border=true)](https://github.com/fangyiyu/github-readme-stats)
