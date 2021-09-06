@@ -68,11 +68,6 @@
 - [Exploratary data analysis for digital marketing](https://towardsdatascience.com/exploratory-data-analysis-for-digital-marketing-with-seaborn-11d5f707fcce?sk=13a6dd11192756e2f665aff5a871aebf)
   - `statistics` `seaborn` `data visualization`
 
-
-### Trivia
-- 🌐 I have visited over 10 countries: [some pictures](./pics/README.md)
-- 💬 I speak Chinese:cn: and English:us:. I'm also learning Spanish🇪🇸 and French🇫🇷 
-
 ---
 
 [![Fangyu Yu's Github Status](https://github-readme-stats.vercel.app/api?username=fangyiyu&show_icons=true&hide_border=true)](https://github.com/fangyiyu/github-readme-stats)
