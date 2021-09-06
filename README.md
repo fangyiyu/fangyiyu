@@ -54,9 +54,9 @@
 
 ### Education
 
-- 🎓 MSc. Natural Langugage Processing & CyberSecurity 📈 @ [Ontario Tech University :canada:](https://ontariotechu.ca/programs/graduate/science/masters-computer-science/)
-- :woman_student: Post-graduate Certificate Artificial Intelligence :desktop_computer: @ [Durham College :canada:](https://durhamcollege.ca/programs/artificial-intelligence-analysis-design-and-implementation-graduate-certificate)
-- :books: BSc. Applied Mathematics :infinity: @ [Donghua University :cn:](https://scdhu.dhu.edu.cn/)
+- 🎓 MSc. | Natural Langugage Processing & CyberSecurity 📈 @ [Ontario Tech University :canada:](https://ontariotechu.ca/programs/graduate/science/masters-computer-science/)
+- :woman_student: Post-graduate Certificate | Artificial Intelligence :desktop_computer: @ [Durham College :canada:](https://durhamcollege.ca/programs/artificial-intelligence-analysis-design-and-implementation-graduate-certificate)
+- :books: BSc. | Applied Mathematics :infinity: @ [Donghua University :cn:](https://scdhu.dhu.edu.cn/)
 
 ### Select projects
 - [Time Series Analysis](https://towardsdatascience.com/a-thorough-guide-to-time-series-analysis-5439c63bc9c5?sk=ee62bc0f09afe09d258ece1dfd4fe03e)
