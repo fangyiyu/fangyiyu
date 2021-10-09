@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Pipeline and Limitations of the EEG-based Authentication Systems](https://towardsdatascience.com/the-pipeline-and-limitations-of-the-eeg-based-authentication-systems-df9f0a05d9ff?source=rss-9114502db0dc------2)
+- [The most common authentication systems explained](https://towardsdatascience.com/the-most-common-authentication-systems-explained-512cddc432ea?source=rss-9114502db0dc------2)
 - [Exploratory data analysis for digital marketing with Seaborn](https://towardsdatascience.com/exploratory-data-analysis-for-digital-marketing-with-seaborn-11d5f707fcce?source=rss-9114502db0dc------2)
 - [How to forecast trip duration using BigQuery ML](https://towardsdatascience.com/how-to-forecast-trip-duration-using-bigquery-ml-ef2bf4a52a47?source=rss-9114502db0dc------2)
 - [How to build a Fake News Detection Web App using Flask](https://towardsdatascience.com/how-to-build-a-fake-news-detection-web-app-using-flask-c0cfd1d9c2d4?source=rss-9114502db0dc------2)
-- [A thorough guide to Time Series Analysis](https://towardsdatascience.com/a-thorough-guide-to-time-series-analysis-5439c63bc9c5?source=rss-9114502db0dc------2)
-- [How to build a Lotto Generator Web Application using Django and Visual Studio Code on macOS](https://towardsdatascience.com/how-to-build-a-lotto-generator-web-application-using-django-and-visual-studio-code-on-macos-91307d48165c?source=rss-9114502db0dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 
