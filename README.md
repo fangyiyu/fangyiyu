@@ -70,11 +70,6 @@
 - [Natural Language Processing web application](https://github.com/fangyiyu/NLP_WebApplication)
   - `web interface` `huggingface` `deployment`
 
-
----
-
-[![Fangyu Yu's Github Status](https://github-readme-stats.vercel.app/api?username=fangyiyu&show_icons=true&hide_border=true)](https://github.com/fangyiyu/github-readme-stats)
-
 ---
 
 <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangyiyu&hide=Jupyter Notebook,html&hide_border=true" />
