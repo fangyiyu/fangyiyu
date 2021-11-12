@@ -5,8 +5,8 @@
 - 🔭 I just launched my first blogs on [Medium][course]!
 - 🌱 I'm currently learning Google Cloud Platform.
 - 👯 I'm looking for machine learning internship opportunities for the 2022 summer.
-- 🥅 2021 Goals: Read five books, nail down research topic and finish research manuscript.
-- ⚡ Fun fact: I'm a traveller. Love to hike, cook, play badminton and table tennis.
+- 🥅 2021 Goals: Read five books and finish my research manuscript.
+- ⚡ Fun fact: I'm a traveller. Love to hike, play badminton and table tennis.
 
 
 ### Connect with me:
@@ -67,6 +67,9 @@
   - `regression` `google cloud platform` `SQL`
 - [Exploratary data analysis for digital marketing](https://towardsdatascience.com/exploratory-data-analysis-for-digital-marketing-with-seaborn-11d5f707fcce?sk=13a6dd11192756e2f665aff5a871aebf)
   - `statistics` `seaborn` `data visualization`
+- [Natural Language Processing web application](https://github.com/fangyiyu/NLP_WebApplication)
+  - `web interface` `huggingface` `deployment`
+
 
 ---
 
