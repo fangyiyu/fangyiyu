@@ -1,11 +1,11 @@
 ### Hi there, I'm [Fangyi Yu][website] 👋
 
-## I'm a Master's student in Computer Science and a Machine Learning Researcher.
+## I'm a Master's student in Computer Science and a Graduate Research Assistant.
 
-- 🔭 I just launched my first blogs on [Medium][course]!
-- 🌱 I'm currently learning Google Cloud Platform.
-- 👯 _I'm looking for machine learning internship opportunities for the 2022 summer_.
-- 🥅 2021 Goals: Read five books and finish my research manuscript.
+- 🔭 I started technical writing on [Medium][course]!
+- 🌱 I'm currently doing research on machine learning implementations in security and privacy.
+- 👯 _I'm looking for data-related internship opportunities for the 2022 summer_.
+- 🥅 2022 Goals: Publish one paper at a top-tier computer security conference and obtain the OGS or CGS scholarship.
 - ⚡ Fun fact: I'm a traveller. Love to hike, play badminton and table tennis.
 
 
