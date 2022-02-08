@@ -69,6 +69,8 @@
   - `statistics` `seaborn` `data visualization`
 - [Natural Language Processing web application](https://github.com/fangyiyu/NLP_WebApplication)
   - `web interface` `huggingface` `deployment`
+- [IT Service Delivery Improvement](https://github.com/fangyiyu/Data-Questers-CANDEV2022)
+  - `dashboard` `data analysis` `hackathon`
 
 ---
 
