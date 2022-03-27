@@ -1,21 +1,20 @@
-### Hi there, I'm [Fangyi Yu][website] 👋
+### Hi there, I'm Fangyi Yu 👋
 
 ## I'm a Master's student in Computer Science and a Graduate Research Assistant.
 
 - 🔭 I started technical writing on [Medium][course]!
 - 🌱 I'm currently doing research on machine learning implementations in security and privacy.
-- 👯 _I'm looking for data-related internship opportunities for the 2022 summer_.
-- 🥅 2022 Goals: Publish one paper at a top-tier computer security conference and obtain the OGS or CGS scholarship.
+- 👯 I'm going to join [Thomson Reuters][company] as an Applied Research Scientist Intern in the 2022 summer🎊.
+- 🥅 2022 Goals: Publish one paper at a top-tier machine learning conference and obtain the OGS or CGS scholarship.
 - ⚡ Fun fact: I'm a traveller. Love to hike, play badminton and table tennis.
 
 
 ### Connect with me:
 
-[<img align="left" alt="fangyiyu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="fangyiyu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="fangyiyu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fangyiyu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="fangyiyu | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="fangyiyu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -82,3 +81,5 @@
 [twitter]: https://twitter.com/mlfangyiyu
 [linkedin]: https://www.linkedin.com/in/fangyiyu/
 [medium]: https://medium.com/@fangyiyu
+[company]: https://www.thomsonreuters.com/en/artificial-intelligence.html
+[gmail]: mailto:yufangyi@gmail.com
