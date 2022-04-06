@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Research methods involving human studies](https://towardsdatascience.com/research-methods-involving-human-studies-67fedb56df42?source=rss-9114502db0dc------2)
 - [A Novel Approach to Integrate Speech Recognition into Authentication Systems](https://towardsdatascience.com/a-novel-approach-to-integrate-speech-recognition-into-authentication-systems-accc02103afe?source=rss-9114502db0dc------2)
 - [The Pipeline and Limitations of the EEG-based Authentication Systems](https://towardsdatascience.com/the-pipeline-and-limitations-of-the-eeg-based-authentication-systems-df9f0a05d9ff?source=rss-9114502db0dc------2)
 - [The most common authentication systems explained](https://towardsdatascience.com/the-most-common-authentication-systems-explained-512cddc432ea?source=rss-9114502db0dc------2)
 - [Exploratory data analysis for digital marketing with Seaborn](https://towardsdatascience.com/exploratory-data-analysis-for-digital-marketing-with-seaborn-11d5f707fcce?source=rss-9114502db0dc------2)
-- [How to forecast trip duration using BigQuery ML](https://towardsdatascience.com/how-to-forecast-trip-duration-using-bigquery-ml-ef2bf4a52a47?source=rss-9114502db0dc------2)
 <!-- BLOG-POST-LIST:END -->
 
 
