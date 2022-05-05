@@ -3,8 +3,8 @@
 ## I'm a Master's student in Computer Science and a Graduate Research Assistant.
 
 - 🔭 I started technical writing on [Medium][course]!
-- 🌱 I'm currently doing research on machine learning implementations in security and privacy.
-- 👯 I'm going to join [Thomson Reuters][company] as an Applied Research Scientist Intern in the 2022 summer🎊.
+- 🌱 I'm doing research on machine learning implementations in security and privacy.
+- 👯 I'm currently working as an Applied Research Scientist Intern [Thomson Reuters][company].
 - 🥅 2022 Goals: Publish one paper at a top-tier machine learning conference and obtain the OGS or CGS scholarship.
 - ⚡ Fun fact: I'm a traveller. Love to hike, play badminton and table tennis.
 
